@@ -1,4 +1,3 @@
-# RegresionLineal
 # Regresión Lineal por Mínimos Cuadrados
 
 ## Descripción
