@@ -33,4 +33,4 @@ Aplicar el método de mínimos cuadrados para encontrar la recta que mejor se aj
 Java
 
 ## Autora
-Escribe aquí tu nombre.
+Yajahira Aguilar
